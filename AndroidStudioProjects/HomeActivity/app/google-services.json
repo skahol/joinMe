@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304438200132",
+    "firebase_url": "https://joinme-fc431.firebaseio.com",
+    "project_id": "joinme-fc431",
+    "storage_bucket": "joinme-fc431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304438200132:android:baeda1767b03f199323911",
+        "android_client_info": {
+          "package_name": "com.example.homeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304438200132-7ierreflm4bdjlq3cb1ubj8ebvei4tg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVU1KwumMobmdGo7mDprlUKb6zdThNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304438200132-7ierreflm4bdjlq3cb1ubj8ebvei4tg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
